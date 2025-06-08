@@ -1,4 +1,4 @@
-# Synthetic-Data-Driven-Image-Classification-using-Diffusion-Models-and-YOLOv8
+# Synthetic-Data-Driven-Image-Classification-using-Diffusion-Models-and-YOLOv8(https://colab.research.google.com/drive/182rPdgFVRTGufCwHQO4ILJKd4EkCht9s?usp=sharing)
 
 This project demonstrates an end-to-end machine learning pipeline for image classification, addressing the challenge of data scarcity by leveraging generative AI. It utilizes a combination of Google's Gemini API for diverse prompt generation and Stable Diffusion for synthetic image creation to build a custom dataset. This synthetic data is then used to train a YOLOv8 model for classifying images into predefined categories.
 
